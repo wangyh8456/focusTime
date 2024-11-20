@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.geb32.snack0fe1606228be43249f64b0f2ec18c6af"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "90b976f4-ec7a-46a1-b3b5-97e6f916ed79"
+      }
     }
   }
 }
